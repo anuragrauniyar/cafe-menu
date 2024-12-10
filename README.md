@@ -11,9 +11,6 @@ A visually appealing cafe menu webpage featuring coffee and dessert options. Des
 - HTML
 - CSS (Flexbox and basic styling)
 
-## How to View
-- Open `index.html` in your browser to view the menu.
-
 ## Screenshot
 ![Cafe Menu Screenshot](https://github.com/user-attachments/assets/a3e9ce25-313e-4e9f-bbe6-37917cc8e782)
 
