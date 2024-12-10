@@ -14,9 +14,6 @@ A visually appealing cafe menu webpage featuring coffee and dessert options. Des
 ## How to View
 - Open `index.html` in your browser to view the menu.
 
-## Live Demo
-Check out the live demo here: [Cafe Menu](https://anuragrauniyar.github.io/cafe-menu/)
-
 ## Screenshot
 ![Cafe Menu Screenshot](https://github.com/user-attachments/assets/a3e9ce25-313e-4e9f-bbe6-37917cc8e782)
 
