@@ -12,8 +12,7 @@ A visually appealing cafe menu webpage featuring coffee and dessert options. Des
 - CSS (Flexbox and basic styling)
 
 ## Screenshot
-![Cafe Menu Screenshot](https://github.com/user-attachments/assets/a3e9ce25-313e-4e9f-bbe6-37917cc8e782)
-
+![Webpage View](https://github.com/user-attachments/assets/ed7541c9-eb5a-4977-a744-cd32733460a9)
 
 ## Credits
 Background image and hints from freeCodeCamp
